@@ -2,6 +2,8 @@
 
 ## Overview
 
+This project is part of a course offered in NUS -- ST4248 Statistical Learning II
+
 This project investigates the factors associated with worldwide movie box office revenue through exploratory data analysis (EDA) and statistical modelling. Using a dataset of 5,000 movies released between 2000 and 2024, the analysis examines how movie genres, audience ratings, viewer engagement, and original language relate to financial performance.
 
 The project focuses on three key research questions:
